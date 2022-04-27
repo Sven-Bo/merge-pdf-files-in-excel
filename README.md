@@ -5,7 +5,7 @@ Did you know you can use Python code to merge PDF files in Excel? In this video,
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/ZQeh7WVaFRQ/0.jpg)](https://youtu.be/ZQeh7WVaFRQ)
 
-# Sample Output
+# Excel Interface
 ![Demo](demo.jpg?raw=true "Demo")
 
 ## Requirements
